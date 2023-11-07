@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "mongoose": "^7.6.2"
+    "mongoose": "^7.6.2",
+    "notistack": "^3.0.1"
   }
 }
